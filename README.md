@@ -9,6 +9,12 @@ science-related knowledge obtained over the years.
 
 - [Linux Kernel Modules](linux/kernel_modules)
 
+## Testing Infrastructure
+
+For each section in this repository, there should be the source code and some
+form of tests that can also be executed locally. The GitHub Actions Workflow
+file `cicd.yml` is located in `.github/workflows` and makes use of these local
+tests to thoroughly test the code base.
 
 ## Author
 
