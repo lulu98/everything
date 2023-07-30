@@ -14,6 +14,10 @@ science-related knowledge obtained over the years.
 - [C++](lang/cpp)
 - [Java](lang/java)
 
+### Version Control
+
+- [Git](version_control/git)
+
 ### Linux
 
 - [Linux Kernel Modules](linux/kernel_modules)
