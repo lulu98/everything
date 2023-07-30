@@ -5,6 +5,15 @@ science-related knowledge obtained over the years.
 
 ## Categories
 
+### Programming Languages
+
+- [C](lang/c)
+- [Python](lang/python)
+- [HTML, CSS, JavaScript, PHP (WebDev)](lang/web)
+- [C#](lang/csharp)
+- [C++](lang/cpp)
+- [Java](lang/java)
+
 ### Linux
 
 - [Linux Kernel Modules](linux/kernel_modules)
