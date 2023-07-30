@@ -21,6 +21,7 @@ science-related knowledge obtained over the years.
 ### Linux
 
 - [Linux Kernel Modules](linux/kernel_modules)
+- [Process Monitoring](linux/process_monitoring)
 
 ## Testing Infrastructure
 
