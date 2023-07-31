@@ -14,9 +14,10 @@ science-related knowledge obtained over the years.
 - [C++](lang/cpp)
 - [Java](lang/java)
 
-### Version Control
+### Development Tools
 
-- [Git](version_control/git)
+- [Git](dev_tools/git)
+- [GDB](dev_tools/gdb)
 
 ### Linux
 
