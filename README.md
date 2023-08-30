@@ -24,6 +24,10 @@ science-related knowledge obtained over the years.
 - [Linux Kernel Modules](linux/kernel_modules)
 - [Process Monitoring](linux/process_monitoring)
 
+### Research
+
+- [Research Documents](research/)
+
 ## Testing Infrastructure
 
 For each section in this repository, there should be the source code and some
