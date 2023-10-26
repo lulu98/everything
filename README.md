@@ -8,11 +8,11 @@ science-related knowledge obtained over the years.
 ### Programming Languages
 
 - [C](lang/c)
-- [Python](lang/python)
-- [HTML, CSS, JavaScript, PHP (WebDev)](lang/web)
-- [C#](lang/csharp)
 - [C++](lang/cpp)
+- [C#](lang/csharp)
+- [Python](lang/python)
 - [Java](lang/java)
+- [HTML, CSS, JavaScript, PHP (WebDev)](lang/web)
 
 ### Development Tools
 
@@ -21,6 +21,8 @@ science-related knowledge obtained over the years.
 
 ### Linux
 
+- [Embedded Linux Primer - Book Summary](linux/embedded_linux/book)
+- [Embedded Linux Tutorial on RPi4](linux/embedded_linux/project)
 - [Linux Kernel Modules](linux/kernel_modules)
 - [Process Monitoring](linux/process_monitoring)
 - [Personal Desktop Setup](linux/desktop_setup)
