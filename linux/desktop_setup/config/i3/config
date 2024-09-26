@@ -1,4 +1,3 @@
-# location in home folder: ~/.config/i3/config
 # Please see http://i3wm.org/docs/userguide.html for a complete reference!
 #
 
@@ -24,7 +23,6 @@ set_from_resource $white       color15 #000000
 
 set $mod Mod4
 set $mod1 Mod1
-set $terminator terminator
 
 
 # Font for window titles. Will also be used by the bar unless a different font
@@ -41,8 +39,8 @@ font pango:DejaVu Sans Mono 12
 floating_modifier $mod
 
 # start a terminator by pressing Mod key + x or ENTER
-bindsym $mod+Return exec $terminator
-bindsym $mod+x exec $terminator
+bindsym $mod+Return exec gnome-terminal
+bindsym $mod+x exec gnome-terminal
 
 # Custom bindsyms
 bindsym $mod+p exec ~/.config/i3/bin/logout
@@ -64,8 +62,8 @@ bindsym $mod+d exec --no-startup-id ~/.config/i3/bin/rofi_app_launcher
 
 
 # change focus
-bindsym $mod+j focus left
-bindsym $mod+k focus down
+bindsym $mod+j focus down
+bindsym $mod+k focus up
 # bindsym $mod+l focus up
 bindsym $mod+semicolon focus right
 
